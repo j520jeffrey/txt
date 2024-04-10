@@ -11,7 +11,7 @@
 八大第一,https://z88.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
 八大綜合,https://z88.ubtvfans.com/live/rx1/2286/78f60a216640f76802257cbab8095843/index.m3u8
 三立臺灣HD,https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
-三立都會HD,https://z88.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
+三立都會HD,https://z88.ubtvfans.com/live/rx1/2435/ea85f251db5b39cc8ca85abb7f2349e0/index.m3u8
 華藝綜合,https://z88.ubtvfans.com/live/rx1/342/6531bbe19ff74ce527e4a6ca62f29a9a/index.m3u8
 東森綜合,https://z88.ubtvfans.com/live/rx1/372/04957ead8303b91527c70a0ed3584d33/index.m3u8
 中天綜合,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
