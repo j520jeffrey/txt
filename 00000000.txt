@@ -37,7 +37,7 @@ ELTA娛樂,https://z88.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd0
 靖天日本,https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
 靖天歡樂,https://z88.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
 三立綜合,https://z88.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
-靖天資訊,https://z2.ubtvfans.com//live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8
+靖天資訊,https://z88.ubtvfans.com//live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8
 靖天綜合,https://z88.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
 中視經典,https://z88.ubtvfans.com/live/rx1/185/3702befddc527f8013cd34d03611d5cd/index.m3u8
 中視菁采,https://z88.ubtvfans.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
