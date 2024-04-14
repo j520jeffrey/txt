@@ -121,4 +121,4 @@ thrill,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710ffacc938/ind
 ELTA影劇,https://z88.ubtvfans.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
 DMAX,https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-東森亞洲衛視,https://z88.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
+東森美洲,https://epg.pw/stream/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8
