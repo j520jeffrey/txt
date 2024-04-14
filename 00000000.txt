@@ -50,7 +50,7 @@ TVBS精采,https://z88.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539
 壹新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 年代新聞,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 東森新聞,https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
-東森亞洲衛視,https://z88.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
+中天新聞,https://epg.pw/stream/5b84b0baf55fce778cffd1d5a35ef8e77dfb02436d82cd5a83dd78c61c90462e.m3u8
 民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
 TVBS新聞,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
@@ -121,3 +121,4 @@ thrill,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710ffacc938/ind
 ELTA影劇,https://z88.ubtvfans.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
 DMAX,https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+東森亞洲衛視,https://z88.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
