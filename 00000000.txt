@@ -60,7 +60,7 @@ TVBS HD,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/
 探索eve!,https://z88.ubtvfans.com/live/rx3/1036/05e8b60c96fd3d3c8a88389976a9612b/index.m3u8
 靖天影畫,https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
 龍華洋片,https://z88.ubtvfans.com/live/rx1/341/ba4a92c916b01d9be06aa1cfe28cea36/index.m3u8
-東森電影,https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+東森電影1,https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
 緯來電影,https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
 龍祥時代,https://z88.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
 HBO,https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
