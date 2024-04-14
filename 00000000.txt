@@ -118,6 +118,6 @@ thrill,https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710ffacc938/ind
 靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 靖天資訊,https://z88.ubtvfans.com//live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8
 靖天綜合,https://z88.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
-愛達爾影劇,https://z88.ubtvfans.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
+ELTA影劇,https://z88.ubtvfans.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
 DMAX,https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
 
