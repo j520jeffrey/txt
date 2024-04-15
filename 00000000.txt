@@ -91,6 +91,8 @@ ELTA體育4,https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726e
 博斯運動I,https://z88.ubtvfans.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
 博斯運動II,https://z88.ubtvfans.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
 博斯網球,https://z88.ubtvfans.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
+博斯高球I,https://z88.ubtvfans.com/live/rx1/377/c8f27fc82a4d290ca635d9099b5d5dd2/index.m3u8
+博斯高球II,https://z88.ubtvfans.com/live/rx1/378/564c0bf55fc935c184f5cec7fb475584/index.m3u8
 中天亞洲,https://z88.ubtvfans.com/live/rx1/322/b51b8d02c207db98c44228186a5310b1/index.m3u8
 靖天國際,https://z88.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
 靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
