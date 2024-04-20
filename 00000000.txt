@@ -12,7 +12,7 @@ ELTA娛樂,https://z88.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd0
 霹靂臺灣,https://z88.ubtvfans.com/live/rx1/1339/4548801261b49eea62f971f931ed19a7/index.m3u8
 華視HD,https://z88.ubtvfans.com/live/rx1/32/4a8ce7de4c89b0973b2ec986c911be1d/index.m3u8
 公視,https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
-Discovery科學,https://z88.ubtvfans.com/live/rx1/343/1c96e35ab1e56f9d6c5ba0a2ff98e47e/index.m3u8
+Discovery科學頻道,https://z88.ubtvfans.com/live/rx1/343/1c96e35ab1e56f9d6c5ba0a2ff98e47e/index.m3u8
 好消息,https://z88.ubtvfans.com/live/rx1/104/ee07571be25fcadb0ba2b662aef072db/index.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 客家電視,https://z88.ubtvfans.com/live/rx3/76/fa5b120431ea76968b2a7363017a2025/index.m3u8
