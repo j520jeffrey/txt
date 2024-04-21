@@ -23,7 +23,7 @@ TLC,https://z88.ubtvfans.com/live/rx4/2275/22130ea36c4bbf42b91e6ff6c0ab32d3/inde
 CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
 亞洲旅遊,https://z88.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
 momo親子,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
-東森幼幼,https://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
+EBCYOYO,https://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
 緯來綜合,https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
 八大第一,https://z88.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
 八大綜合,https://z88.ubtvfans.com/live/rx1/2286/78f60a216640f76802257cbab8095843/index.m3u8
