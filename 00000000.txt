@@ -5,7 +5,7 @@
 ELTA娛樂,https://z88.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
 韓國娛樂,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
 民視HD,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
-探索亞洲,https://z88.ubtvfans.com/live/rx1/306/a17e3a975f7614f8cc365f8591ca87a0/index.m3u8
+Discovery亞洲,https://z88.ubtvfans.com/live/rx1/306/a17e3a975f7614f8cc365f8591ca87a0/index.m3u8
 台視HD,https://z88.ubtvfans.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
