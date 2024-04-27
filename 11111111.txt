@@ -1295,7 +1295,7 @@ OCN thrills,http://?s=focus&id=641a17c6000675d0bf46995e33067f1b
 SBS스포츠,http://?s=focus&id=641a1807000e2893bf47993f54057b7f
 SBS골프,http://?s=focus&id=641a181900011a81bf47dc38661e214f
 JTBC골프,http://?s=focus&id=641a183c000cddb0bf4867f37b157f23
-午夜时光CR,#genre#
+午夜时光CR_168168,#genre#
 松視1台,http://?s=focus&id=650b87f1000d765a8f12ea107fd81201
 松視3台,http://?s=focus&id=650b8a0e000007df8f1b27da75d42f65
 松視2台,http://?s=focus&id=650b8a51000ac6568f1c30530c503d72
