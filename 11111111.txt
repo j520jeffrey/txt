@@ -53,8 +53,8 @@ TVBS-精彩台,http://?s=focus&id=642521a2000c7beaea64e5cc482f669a
 大爱电视,http://?s=focus&id=6425225a0002859cea67b1ff6aaf6db6
 大爱二台,http://?s=focus&id=64252264000022beea67d87308e9122e
 MOMO親子臺,http://?s=focus&id=6425226f000463e1ea68048207b3285f
-ELEVEN 体育1,http://?s=focus&id=6425227b000100c6ea6832842d41783a
-ELEVEN 体育2,http://?s=focus&id=64252292000127feea688c6630d312e7
+DAZN 1,http://?s=focus&id=6425227b000100c6ea6832842d41783a
+DAZN 2,http://?s=focus&id=64252292000127feea688c6630d312e7
 ELTA体育1台,http://?s=focus&id=6425229e00024ab4ea68bb9154ab1928
 ELTA体育2台,http://?s=focus&id=642522b0000a6c14ea6903f615622aab
 ELTA体育3台,http://?s=focus&id=642522bd000ad1bbea6936d803e32fc0
