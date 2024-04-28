@@ -3,6 +3,7 @@
 交流讨论：https://t.me/jizhi222
 
 Js=jizhi
+Js=https://raw.githubusercontent.com/j520jeffrey/txt/main/jizhi.js
 TW台湾,#genre#
 民视 ,http://?s=focus&id=64251dd200003544ea55fe1c5eb00e42
 民视(b) ,http://?s=focus&id=6442f24f00097e845edb5e492842265c
