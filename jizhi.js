@@ -32,7 +32,7 @@
         }
 
         fabu = result[1];
-        setCache.call({ name: nameAPI, value: fabu, expire: "21600000000" });
+        setCache.call({ name: nameAPI, value: fabu, expire: "3600000" });
     }
 
     res = get.call({ url: fabu });
