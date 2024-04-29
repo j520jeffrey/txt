@@ -1,6 +1,4 @@
 极致播放器专用源
-发布频道：https://t.me/jizhi111
-交流讨论：https://t.me/jizhi222
 
 Js=https://raw.githubusercontent.com/j520jeffrey/txt/main/jizhi.js
 TW台湾,#genre#
