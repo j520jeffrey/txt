@@ -1,3 +1,7 @@
+极致播放器专用源
+发布频道：https://t.me/jizhi111
+交流讨论：https://t.me/jizhi222
+
 Js=https://raw.githubusercontent.com/j520jeffrey/txt/main/jizhi.js
 TW台湾,#genre#
 民视 ,http://?s=focus&id=64251dd200003544ea55fe1c5eb00e42
