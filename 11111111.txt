@@ -680,8 +680,8 @@ Now体育4 Sports 4,http://?s=focus&id=6437999f00025f983289265f38ef3722
 Now体育5 Sports 5,http://?s=focus&id=643799aa000e7bac3289547135e05a80
 Now体育6 Sports 6,http://?s=focus&id=643799bb00044f193289943e2e5f6ac1
 Now体育7 Sports 7,http://?s=focus&id=643799ca000a29a43289d0542d57262c
-ELEVEN 体育1,http://?s=focus&id=6425227b000100c6ea6832842d41783a
-ELEVEN 体育2,http://?s=focus&id=64252292000127feea688c6630d312e7
+DAZN 1,http://?s=focus&id=6425227b000100c6ea6832842d41783a
+DAZN 2,http://?s=focus&id=64252292000127feea688c6630d312e7
 ELTA体育1台,http://?s=focus&id=6425229e00024ab4ea68bb9154ab1928
 ELTA体育2台,http://?s=focus&id=642522b0000a6c14ea6903f615622aab
 ELTA体育3台,http://?s=focus&id=642522bd000ad1bbea6936d803e32fc0
@@ -1378,8 +1378,8 @@ TLC台湾,http://?s=ouhau&id=5fe16de700083ba97787607e74d90cb5
 龙华日韩,http://?s=ouhau&id=621e1d0e00085766289da9bb1d7120af
 靖天戏剧,http://?s=ouhau&id=612db70e000298f98975294e4645098b
 影迷数位电影,http://?s=ouhau&id=6223ae1b0007136f3e5c44280e3300fa
-Eleven 1,http://?s=ouhau&id=6027f40400042e0d8b002a1b0af27e77
-Eleven 2,http://?s=ouhau&id=6025f1d0000440c783278efb13a4147e
+DAZN 1,http://?s=ouhau&id=6027f40400042e0d8b002a1b0af27e77
+DAZN 2,http://?s=ouhau&id=6025f1d0000440c783278efb13a4147e
 Momo亲子,http://?s=ouhau&id=61e0ffbf000c4e3545c098666cb76c2d
 FTV影剧,http://?s=ouhau&id=63ebf3c5000246e9e2e9ff2f72d22633
 FTV综艺,http://?s=ouhau&id=63ebf41d000b6335e2eb595050b6303b
