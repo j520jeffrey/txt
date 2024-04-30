@@ -3,7 +3,7 @@
 发布频道：https://t.me/jizhi111
 交流讨论：https://t.me/jizhi222
 
-js=smart
+js=https://raw.githubusercontent.com/j520jeffrey/txt/main/smart.js
 
 SmartTV-馬來西亞,#genre#
 TV1,http://?id=TV1
