@@ -1,7 +1,7 @@
 极致播放器专用源
 
 Js=https://raw.githubusercontent.com/j520jeffrey/txt/main/jizhi.js
-TW台湾,#genre#
+🇹🇼台湾,#genre#
 民视 ,http://?s=focus&id=64251dd200003544ea55fe1c5eb00e42
 民视(b) ,http://?s=focus&id=6442f24f00097e845edb5e492842265c
 民视新闻台 ,http://?s=focus&id=64c859e10007934267f487ac0fa618e0
@@ -111,7 +111,7 @@ Euro news my,http://?s=focus&id=6413817b0003393aa58bbcbf158b6409
 FOX NEWS my,http://?s=focus&id=6413818e000154fca58c067b60210765
 BBC News HD,http://?s=focus&id=641384e7000133cda5991a1b33cb3ea0
 DW HD,http://?s=focus&id=641384f6000cbd09a59957a77daa41a1
-Sing新加坡,#genre#
+🇸🇬新加坡,#genre#
 Channel 8,http://?s=focus&id=642606be0002dd54ede3d8b40d6c04dc
 Channel 8(b),http://?s=focus&id=642605590007b381edde676b090919b0
 Channel 5,http://?s=focus&id=642606de000ae43dede457c221b81de1
@@ -237,7 +237,7 @@ BBC News HD,http://?s=focus&id=641384e7000133cda5991a1b33cb3ea0
 DW HD,http://?s=focus&id=641384f6000cbd09a59957a77daa41a1
 Love Nature ,http://?s=focus&id=64138508000471b7a5999bd702f428aa
 Disney Channel,http://?s=focus&id=6413851900016945a599dd79676c38
-Malaysia,#genre#
+🇲🇾馬來西亞,#genre#
 TV1,http://?s=focus&id=64124205000b04f4a0abd9c7062c099b
 TV1(b),http://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?s=focus&id=1
 TV1(c),http://?s=focus&id=6412422400098c9ba0ac527f0ec009c8
@@ -418,7 +418,7 @@ Cartoon Network,http://?s=focus&id=642d44aa0000eb420a2d81945bea5d17
 Nickelodeon ,http://?s=focus&id=642d44b90006faed0a2dbdba7c9816e4
 Cbeebies,http://?s=focus&id=642d44c8000478d70a2df7ad172b5de0
 Boomerang ,http://?s=focus&id=642d44d600008f5f0a2e2d5d69c27e63
-India印度,#genre#
+🇮🇳印度,#genre#
 Sun TV MY,http://?s=focus&id=64138578000a0b4da59b52b76a9552c0
 Sun TVTataSky,http://?s=focus&id=6413858800046ac8a59b8fc622de0dc9
 Sun TV Tamil,http://?s=focus&id=641385a2000d8ae7a59bf7ad23443b39
@@ -498,7 +498,7 @@ BBC News HD,http://?s=focus&id=641384e7000133cda5991a1b33cb3ea0
 DW HD,http://?s=focus&id=641384f6000cbd09a59957a77daa41a1
 Love Nature ,http://?s=focus&id=64138508000471b7a5999bd702f428aa
 Disney Channel,http://?s=focus&id=6413851900016945a599dd79676c389c
-China中国,#genre#
+🇨🇳中国,#genre#
 CCTV-1 ,http://?s=focus&id=64260c74000c73e9edfa2a0e354364a8
 CCTV-2 ,http://?s=focus&id=64260c83000b5f74edfa64604fe67a12
 CCTV-3 ,http://?s=focus&id=64260c9b0000ca3dedfabf6a10b00144
@@ -537,7 +537,7 @@ CCTV-15,http://?s=focus&id=64260e5a000a63ffee0193f872fa5767
 广东少儿,http://?s=focus&id=642610a2000b33ebee0a7d6c26c160b2
 广东综艺,http://?s=focus&id=642610b9000df973ee0ad7f9779b6483
 广东国际,http://?s=focus&id=642610c3000df7f5ee0aff0975881941
-HongKong香港,#genre#
+🇭🇰香港,#genre#
 TVB翡翠台,http://?s=focus&id=641009ee000871369800bf4762e35621
 TVB翡翠台(b),http://?s=focus&id=6410094a000234c597fe3d0e63905877
 TVB翡翠台MY,http://?s=focus&id=64100a0b000cbbda980131a946a90bc0
