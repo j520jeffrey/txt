@@ -1684,7 +1684,7 @@ CGTN Espanol 西语,http://?s=ouhau&id=63ec51ab000772cce458cafd43a96c5d
 CGTN Espanol 西语,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN俄语,http://?s=ouhau&id=60e648570006544872703d417386353f
 CGTN阿拉伯,http://?s=ouhau&id=60e647e200033b4a726e736d14e93334
-North America,#genre#
+🇺🇸美国,#genre#
 CCTV4国际,http://?s=ouhau&id=61244d9c0006885d64b1b7591f6c12a0
 CCTV4美洲,http://?s=ouhau&id=602f0bd2000b47fda6b4b7f96224105e
 CCTV4欧洲,http://?s=ouhau&id=602f097e000dad16a6aba08351fb40a9
