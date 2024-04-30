@@ -915,7 +915,7 @@ MTV UHD,http://?s=focus&id=6465b595000b11b4e6a53fac6b7c2eaa
 OUTDOOR CHANNEL,http://?s=focus&id=6465b5a0000c3aa7e6a56af0523416a8
 Nat Geo Wild USA,http://?s=focus&id=645fbc4e000ef087cf4fbd770b2c438b
 Nat Geo USA,http://?s=focus&id=645fbc5a000d37fccf4febe77c8856bb
-印尼ID,#genre#
+🇮🇩印尼,#genre#
 INDOSIAR(a),http://?s=focus&id=64325c920009f49e1e12e62970e9411d
 INDOSIAR(b),http://?s=focus&id=64325ca1000e59b91e1321e1655455dc
 INDOSIAR(c),http://?s=focus&id=64325cae00016ade1e13515914857bcf
@@ -946,7 +946,7 @@ MNC Shop Smart,http://?s=focus&id=64325f0100000b7b1e1c65377ae07d02
 TRT World ,http://?s=focus&id=64325f16000226b11e1cb7c9769e6d7a
 Ochannel Discovery Asia,http://?s=focus&id=64325f260007794d1e1cf7a65c7207d1
 Thrill,http://?s=focus&id=644a0879000272f67a89b6687af342ae
-美国USA,#genre#
+🇺🇸美国,#genre#
 AMC,http://?s=focus&id=645fa0880000ff6ecee33c7463b220d0
 A and E,http://?s=focus&id=645fbe610002b43acf57d49031e80df5
 ABC FHD,http://?s=focus&id=645fa8c300060753cf0364303f9473bc
@@ -1138,7 +1138,7 @@ MoviePlex FHD,http://?s=focus&id=64682d6e000ead8df049684444cc6e25
 FUSION,http://?s=focus&id=64682d86000d9dd7f049c5be62a544dc
 INVESTMENT PITCH,http://?s=focus&id=64682d920000784af049f14136c47100
 CCX,http://?s=focus&id=64682d9d0007d19ef04a1e1b33280293
-加拿大CA,#genre#
+🇨🇦加拿大,#genre#
 仅限测试用AMC CANADA,http://?s=focus&id=6485df6e00036f2f6448071309466a28
 CA AHC,http://?s=focus&id=6485df7d000ebb7b64484490783b4cea
 A&E HD,http://?s=focus&id=6485df8a000115d0644873da07567c4b
@@ -1210,7 +1210,7 @@ E! | HD,http://?s=focus&id=6485f689000925a564a24a0e018426e3
 E! ENTERTAINMENT TELEVISION,http://?s=focus&id=6485f699000ccdb264a2897d4bbc3510
 FOOD Network,http://?s=focus&id=6485f6a9000abf3d64a2c7776b275bc9
 FOX,http://?s=focus&id=6485f6b50000b1e164a2f3c405926b4b
-日本JP,#genre#
+🇯🇵日本,#genre#
 AT-X HD,http://?s=focus&id=641a21dd00026e59bf6e022f53082a9d
 BS-TBS,http://?s=focus&id=641a21cd0004b9bdbf6dc4467ff766ad
 BSジャパン,http://?s=focus&id=641a21bb000df8cfbf6d8054551233ec
@@ -1261,7 +1261,7 @@ WOWOWライブ,http://?s=focus&id=641a1f510005dcacbf64103357d547ba
 日テレG JP,http://?s=focus&id=641a191f000edbd9bf4bdf345ae13f0f
 衛星劇場 JP,http://?s=focus&id=641a18b90000c5aabf4a4d231be33905
 日本テレビ JP,http://?s=focus&id=641a190f000d952dbf4ba061442b10e3
-韩国KR,#genre#
+🇰🇷韩国,#genre#
 kbs1,http://?s=focus&id=649439cb000d62089c5890a32129087b
 kbs2,http://?s=focus&id=641a15a2000811adbf3e3d2b2cdc5763
 sbs,http://?s=focus&id=641a15bb00049a59bf3e9df0020d319e
@@ -1292,7 +1292,7 @@ OCN thrills,http://?s=focus&id=641a17c6000675d0bf46995e33067f1b
 SBS스포츠,http://?s=focus&id=641a1807000e2893bf47993f54057b7f
 SBS골프,http://?s=focus&id=641a181900011a81bf47dc38661e214f
 JTBC골프,http://?s=focus&id=641a183c000cddb0bf4867f37b157f23
-Taiwan,#genre#
+🇹🇼Taiwan,#genre#
 壹综合,http://?s=ouhau&id=64e36a09000d3453a98b615460a544cd
 中天新闻,http://?s=ouhau&id=613dba64000abeb1c801c02934bb45fc
 TVBS新闻,http://?s=ouhau&id=621858e3000e70ad1217c0700d576ad0
@@ -1497,7 +1497,7 @@ Rock Expreme,http://?s=ouhau&id=64c6200b000b7fb53722f24464fa73dc
 大爱1,http://?s=ouhau&id=63ed9fff00076875e972c31c79f4152e
 大爱2,http://?s=ouhau&id=63eda04a0001f6fae973e6a334696980
 国兴卫视,http://?s=ouhau&id=64bbca22000912200ec3b2631bca27c7
-HK and Macao,#genre#
+🇭🇰🇲🇴港澳,#genre#
 TVB翡翠台,http://?s=ouhau&id=653e4c02000ea0440c8c63fd3e5d709d
 TVB翡翠台 H.265,http://?s=ouhau&id=653e4c6d000965ef0c8e049f4be34103
 TVB J2,http://?s=ouhau&id=653e4cda0007743f0c8fade86d132b26
@@ -1603,7 +1603,7 @@ Fight Sports,http://?s=ouhau&id=644c26370001b4eb5aad692f22d9728d
 星空卫视,http://?s=ouhau&id=64ee40d1000cfcc5d3e2330305817be2
 CN卡通(粤),http://?s=ouhau&id=648353bb0006d4d93236315a766b692a
 Animax HK,http://?s=ouhau&id=6506d1a00000a99a33d7555a4b747caa
-China,#genre#
+🇨🇳China,#genre#
 CCTV综合,http://?s=ouhau&id=62c200310006b7b2a8c4dade0fd02231
 CCTV财经,http://?s=ouhau&id=5fe15a4400093f55773aac0c576366b8
 CCTV综艺,http://?s=ouhau&id=62be83ea0001dbed9b27d7bb43427d30
@@ -1721,7 +1721,7 @@ WOW TV(加拿大),http://?s=ouhau&id=6348ef9a00069e01b7d5c1d475b34466
 加拿大600新闻,http://?s=ouhau&id=63f2ee15000673e5fe2b9ef606712937
 ICITV加拿大,http://?s=ouhau&id=63f2ee6600090003fe2cdc056e866429
 NTD,http://?s=ouhau&id=61245a9c0009293364e480057c452a09
-SG & MY,#genre#
+🇸🇬SG & 🇲🇾MY,#genre#
 Astro supersport1,http://?s=ouhau&id=5ff7e55400052a7dcf48ff687a820e5c
 Astro supersport2,http://?s=ouhau&id=5fded34c0008475b6d5be45731d55d06
 Astro supersport3,http://?s=ouhau&id=5fded3620008eeb26d5c3a725b5a1adb
@@ -1819,7 +1819,7 @@ Celestial Movis,http://?s=ouhau&id=6456adca0007295c83ceac8d42767576
 TVB Magic,http://?s=ouhau&id=64bcf85500083b2d135ffe1a3ef73b5c
 Astro Arenabola 1,http://?s=ouhau&id=64bd05ac0000680a139417f110dd4659
 Astro Arenabola 2,http://?s=ouhau&id=64bd0692000e510013979df27f954b02
-Korea,#genre#
+🇰🇷Korea,#genre#
 KBS 1,http://?s=ouhau&id=63b02943000b43d483b5663707ff057c
 KBS 2,http://?s=ouhau&id=63b029bf000ccb4e83b74af96cda035c
 MBC,http://?s=ouhau&id=63b02a3e00097d4d83b93a3769895f02
@@ -1885,7 +1885,7 @@ KBS Kids,http://?s=ouhau&id=63b063d5000454a1849a2eb860421a3f
 KBS World,http://?s=ouhau&id=63b06414000dc259849b2739712c1017
 All TV(Canada),http://?s=ouhau&id=63b0644c0001b272849bfee20c3b3f57
 Arirang KR,http://?s=ouhau&id=64ce04960009571055f7b0a4106e32b9
-Japan,#genre#
+🇯🇵Japan,#genre#
 東京NHK総合,http://?s=ouhau&id=6417572e000d95e38c65829c13ce2f37
 東京NHK教育,http://?s=ouhau&id=64168d0200096671894fc5a31b4604df
 東京日本テレビ,http://?s=ouhau&id=6417585e000932568c6a2502167354af
