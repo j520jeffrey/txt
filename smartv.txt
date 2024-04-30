@@ -334,6 +334,7 @@ EYETV 戏剧,http://?id=eyetvxiju_twn
 爱尔达综合台,http://?id=eltazonghe_twn
 星卫电影,http://?id=xingwei_movie
 爱尔达影剧,http://?id=eltayingju_twn
+爱尔达体育1台,http://?id=eltasport1_twn
 爱尔达体育2台,http://?id=eltasport2_twn
 爱尔达体育3台,http://?id=eltasport3_twn
 AFC 亚洲旅游台,http://?id=asiatravel_twn
