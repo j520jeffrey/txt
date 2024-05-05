@@ -126,7 +126,3 @@ DMAX,https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/inde
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 東森美洲,https://epg.pw/stream/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8
 三立國際,https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
-
-HAPPY,mitv://135.148.104.228:19806/659660790009efada3abe7bb6374465e
-JStar极限台,mitv://135.148.104.228:19806/65965afc0003ca30a39675dd41a40275
-K频道,mitv://135.148.104.228:19806/659660d600094f04a3ad52d46ed26cbc
